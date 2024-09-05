@@ -3,10 +3,13 @@
 Useful links:
 * [Micropython download](https://micropython.org/download/)
 * [mpremote](https://docs.micropython.org/en/latest/reference/mpremote.html)
-** mpremote devs # |Scan for commected devices and list COM ports
-** mpremote      # REPL
-** mpremote ls
-** mpremote cp pins.py :
+
+  * mpremote devs # |Scan for commected devices and list COM ports
+  * mpremote      # REPL
+  * mpremote ls
+  * mpremote cp pins.py :
+  * mpremote run <script.py>
+  
 
 
 # Raspberry Pi Pico
@@ -14,6 +17,13 @@ Useful links:
 * [Pico documentation](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html)
 
 ![Pico](./assets/pico-pinout.svg)
+
+## Hardware interface
+
+* Pin
+* UART - Serial interface
+* I2C
+
 
 
 
